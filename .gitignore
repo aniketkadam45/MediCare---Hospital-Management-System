@@ -1,0 +1,12 @@
+# Protect your database password
+**/db.properties
+
+# Ignore Eclipse build and metadata folders
+.metadata/
+bin/
+build/
+tmp/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
