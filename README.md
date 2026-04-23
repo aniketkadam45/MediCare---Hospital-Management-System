@@ -100,7 +100,7 @@ CREATE TABLE patient (
 2. Import the project into your IDE
 3. Configure MySQL database and update DBConnection.java
 4. Deploy the project on Apache Tomcat
-5. Access the application at http://localhost:8080/MediCare
+5. Access the application at http://13.61.4.141:8080/hospital
 
 ---
 
